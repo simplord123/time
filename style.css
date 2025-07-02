@@ -74,7 +74,8 @@ img{
     border-radius: 1%;
     border: 3px double white;
     box-shadow: 5px 5px 5px black;
-    margin: auto;
+    width: 96%;
+    height: auto;
 }
 label,legend{
     margin-left: 2rem;
