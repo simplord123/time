@@ -42,21 +42,6 @@ li a:hover,
 li a:focus{
     color: whitesmoke;
 }
-summary{
-    color: rgb(255, 72, 72);
-    font-weight: bold;
-}
-table{
-    border: 1px solid white;
-    text-align: center;
-    width: 96%;
-    margin: auto;
-}
-td{
-    border: 1px solid white;
-    text-align: center;
-    margin: 2rem;
-}
 a {
     color: #47acff;
     font-weight: bold;
@@ -76,46 +61,4 @@ img{
     box-shadow: 5px 5px 5px black;
     width: 96%;
     height: auto;
-}
-label,legend{
-    margin-left: 2rem;
-    margin-top: 2rem;
-}
-fieldset{
-    margin-right: 0.5rem;
-}
-textarea{
-    margin-left: 2rem;
-    text-shadow: none;
-    padding-left: 0.75rem;
-    padding-top: 0.5rem;
-}
-.button1{
-    margin-left: 2rem;
-    height: 2rem;
-    width: 4rem;
-}
-.button2{
-    height: 2rem;
-    width: 4rem;
-}
-button{
-    background-color: black;
-    color: whitesmoke;
-    border: 1px solid whitesmoke;
-    border-radius: 5px;
-    text-shadow: none;
-    box-shadow: 2px 2px 2px black;
-}
-button:hover,
-button:focus{
-    background-color: whitesmoke;
-    color: black;
-    border: 1px solid black;
-    border-radius: 5px;
-    font-weight: bolder;
-}
-input{
-    text-shadow: none;
-    padding-left: 0.5rem;
 }
