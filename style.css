@@ -32,11 +32,11 @@ h1{
 }
 ul{
     margin-left: 2rem;
-    color: gold;
+    color: whitesmoke;
 }
 li a,
 li a:visited{
-    color: gold;
+    color: whitesmoke;
 }
 li a:hover,
 li a:focus{
@@ -52,13 +52,15 @@ a:hover{
 footer{
     padding-bottom: 3rem;
 }
-aside,summary:hover{
-    color: whitesmoke;
-}
-img{
+.img{
     border-radius: 1%;
     border: 3px double white;
     box-shadow: 5px 5px 5px black;
     width: 96%;
     height: auto;
+}
+.top{
+    display: block;
+    border: 3px double lightblue;
+    border-radius: 2rem;
 }
